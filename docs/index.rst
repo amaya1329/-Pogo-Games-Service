@@ -9,7 +9,7 @@ Pogo is an online gaming platform that provides a wide variety of games to its u
 
 The platform is known for its vast selection of games, social features, and a unique membership model. In this guide, we will explore the *Pogo Games Service*, its features, and how users can make the most of their experience.
 
-.. image:: customerservice.png
+.. image:: 
    :alt: My Project Logo
    :width: 400px
    :align: center
