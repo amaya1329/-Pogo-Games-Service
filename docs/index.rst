@@ -2,14 +2,11 @@ Pogo Games Service – Fun, Fast & Easy Gaming
 ============================================
 
 
-
-
-
 Pogo is an online gaming platform that provides a wide variety of games to its users, including casual games, card games, and puzzle games. The *Pogo Games Service* is designed to offer fun, entertaining, and engaging experiences to players of all ages. It has been around for many years and is one of the most popular gaming sites, offering users access to games through both its website and mobile app.
 
 The platform is known for its vast selection of games, social features, and a unique membership model. In this guide, we will explore the *Pogo Games Service*, its features, and how users can make the most of their experience.
 
-.. image:: 
+.. image:: customer-service.png
    :alt: My Project Logo
    :width: 400px
    :align: center
